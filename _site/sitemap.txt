@@ -1,0 +1,16 @@
+
+http://elsar.github.io/enterprise/about.html
+http://elsar.github.io/enterprise/all.html
+http://elsar.github.io/enterprise/archive.html
+http://elsar.github.io/enterprise/atom.xml
+http://elsar.github.io/enterprise/categories.html
+http://elsar.github.io/enterprise/index.html
+http://elsar.github.io/enterprise/new-page.html
+http://elsar.github.io/enterprise/pages.html
+http://elsar.github.io/enterprise/resource.html
+http://elsar.github.io/enterprise/rss.xml
+http://elsar.github.io/enterprise/sitemap.txt
+http://elsar.github.io/enterprise/special.html
+http://elsar.github.io/enterprise/tags.html
+
+http://elsar.github.io/enterprise/2014/05/20/Article-Demo

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Article
+category : News
 tagline: "Supporting tagline"
 tags : [Hot, Focus]
 ---

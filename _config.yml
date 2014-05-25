@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Enterprise
+title : Sports News
 tagline: Site Tagline
 author :
-  name : Enterprise
+  name : Elsar
   email : elsar0715@gmail.com
   github : elsar
   twitter : elsar
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://elsar.github.io/enterprise
+production_url : http://elsar.github.io/sportsnews
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -65,16 +65,16 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : http://elsar.github.io/enterprise/assets/themes/rhythm-stream
+  ASSET_PATH : http://elsar.github.io/sportsnews/assets/themes/rhythm-stream
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /enterprise/archive.html
-  categories_path : /enterprise/categories.html
-  tags_path : /enterprise/tags.html
-  atom_path : /enterprise/atom.xml
-  rss_path : /enterprise/rss.xml
+  archive_path: /sportsnews/archive.html
+  categories_path : /sportsnews/categories.html
+  tags_path : /sportsnews/tags.html
+  atom_path : /sportsnews/atom.xml
+  rss_path : /sportsnews/rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

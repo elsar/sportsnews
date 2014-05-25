@@ -1,0 +1,14 @@
+
+http://elsar.github.io/sportsnews/about.html
+http://elsar.github.io/sportsnews/all.html
+http://elsar.github.io/sportsnews/archive.html
+http://elsar.github.io/sportsnews/atom.xml
+http://elsar.github.io/sportsnews/categories.html
+http://elsar.github.io/sportsnews/index.html
+http://elsar.github.io/sportsnews/new-page.html
+http://elsar.github.io/sportsnews/pages.html
+http://elsar.github.io/sportsnews/rss.xml
+http://elsar.github.io/sportsnews/sitemap.txt
+http://elsar.github.io/sportsnews/tags.html
+
+http://elsar.github.io/sportsnews/article/2014/05/20/Welcome-to-this-area

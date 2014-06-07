@@ -11,4 +11,4 @@ http://elsar.github.io/sportsnews/rss.xml
 http://elsar.github.io/sportsnews/sitemap.txt
 http://elsar.github.io/sportsnews/tags.html
 
-http://elsar.github.io/sportsnews/article/2014/05/20/Welcome-to-this-area
+http://elsar.github.io/sportsnews/news/2014/05/20/Welcome-to-this-area

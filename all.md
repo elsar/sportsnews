@@ -4,7 +4,13 @@ title: All
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
+<style>
+.logo{ width:250px; height:60px; background-size:260px 60px; margin-top:0;}
+.banner{ display:none}
+@media screen and (min-width: 900px) {
+.menu .item{ border-top:none;}
+}
+</style>
 <div class="bodyarea">
   <div class="bodylist">
 

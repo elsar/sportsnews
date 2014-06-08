@@ -35,15 +35,15 @@ Here's a sample "posts list". -->
 <div class="bodyarea">
 	<div class="newslist">
 		<div class="item clear">
-			<div class="pic"><a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a></div>
+			<div class="pic"><a href="/sportsnews/cba/2014/06/08/热身4战男篮阵容初现端倪-11人稳定仅剩1名额/"><img src="assets/themes/rhythm-stream/skin/1.jpg" alt="" /></a></div>
 			<div class="newscontent">
-				<p class="tx_24"><a href="###">热火球市比马刺火爆 总决赛最高票价36000元</a></p>
+				<p class="tx_24"><a href="###">热身4战男篮阵容初现端倪 11人稳定仅剩1名额</a></p>
 				<p class="tx_14">腾讯体育6月5日讯 看一场总决赛需要多少钱？美国票务网站就更新了总决赛最新门票价格，最便宜的你花246美元就能够看一场总决赛。当然，如果你想要坐在场边观看，那门票可是价格不菲，最高需要5801美元，折合人民币约为36252元。</p><p class="tx_14">
 以该网站公布的数据来看，热火的球市显然要比马刺火爆。首先是热火剩余球票的张数要比马刺更少，其次是他们的门票均价和单场最高门票价格也要更高。当然，出现这样的场景也是完全可以理解的。圣安东尼奥毕竟是小市场，而在迈阿密的比赛往往能吸引很多的名流和富人。</p>
 			</div>
 		</div>
 		<div class="item clear">
-			<div class="pic"><a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a></div>
+			<div class="pic"><a href="###"><img src="assets/themes/rhythm-stream/skin/2.jpg" alt="" /></a></div>
 			<div class="newscontent">
 				<p class="tx_24"><a href="###">热火球市比马刺火爆 总决赛最高票价36000元</a></p>
 				<p class="tx_14">腾讯体育6月5日讯 看一场总决赛需要多少钱？美国票务网站就更新了总决赛最新门票价格，最便宜的你花246美元就能够看一场总决赛。当然，如果你想要坐在场边观看，那门票可是价格不菲，最高需要5801美元，折合人民币约为36252元。</p><p class="tx_14">

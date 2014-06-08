@@ -539,6 +539,7 @@ input,textarea,select,button{ font:12px/1.75 Microsoft Yahei,Helvetica;}
 .banner{-webkit-box-ordinal-group:2;width:auto;}
 .banner img{ width:100%}
 .banner .slo{ width:auto; left:auto; right:0; bottom:60px; font-size:30px; padding:11px 20px;}
+.banner .slo a{ color:#fff}
 .logo{ float:left;}
 .menu{-webkit-box-ordinal-group:3;width:auto; clear:both}
 .menu ul{ float:right}

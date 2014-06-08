@@ -461,7 +461,7 @@ body .bor0{ border:none!important}
 ----------------------------------------------------------------*/
 
 /* 背景色 */
-.c_bg0,body{ background-color:#fff}/* 默认页面背景色 */
+.c_bg0,body{ background-color:#eee}/* 默认页面背景色 */
 .c_bg1{ background-color:#fff;}/* 白色 */
 .c_bg2{ background-color:#ebebeb}/* 一些通栏模块的背景色，比如微视搜索顶部 */
 .c_bg3{ background-color:#fafafa}
@@ -486,7 +486,7 @@ body .bor0{ border:none!important}
 .menu .item:first-child{ border-top:none;}
 .menu .item a{ display:block}
 
-.bodyarea{ clear:both}
+.bodyarea{ clear:both; background:#fff}
 .newslist{}
 .newslist .item{ padding:10px; background:#fff; border-top:#ccc 1px solid}
 .newslist .pic{ margin-bottom:10px; text-align:center;}

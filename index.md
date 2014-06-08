@@ -35,7 +35,7 @@ Here's a sample "posts list". -->
 <div class="bodyarea">
 	<div class="newslist">
 		<div class="item clear">
-			<div class="pic"><a href="###"><img src="images/newsdemo.jpg" alt="" /></a></div>
+			<div class="pic"><a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a></div>
 			<div class="newscontent">
 				<p class="tx_24"><a href="###">热火球市比马刺火爆 总决赛最高票价36000元</a></p>
 				<p class="tx_14">腾讯体育6月5日讯 看一场总决赛需要多少钱？美国票务网站就更新了总决赛最新门票价格，最便宜的你花246美元就能够看一场总决赛。当然，如果你想要坐在场边观看，那门票可是价格不菲，最高需要5801美元，折合人民币约为36252元。</p><p class="tx_14">
@@ -43,7 +43,7 @@ Here's a sample "posts list". -->
 			</div>
 		</div>
 		<div class="item clear">
-			<div class="pic"><a href="###"><img src="images/newsdemo.jpg" alt="" /></a></div>
+			<div class="pic"><a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a></div>
 			<div class="newscontent">
 				<p class="tx_24"><a href="###">热火球市比马刺火爆 总决赛最高票价36000元</a></p>
 				<p class="tx_14">腾讯体育6月5日讯 看一场总决赛需要多少钱？美国票务网站就更新了总决赛最新门票价格，最便宜的你花246美元就能够看一场总决赛。当然，如果你想要坐在场边观看，那门票可是价格不菲，最高需要5801美元，折合人民币约为36252元。</p><p class="tx_14">
@@ -133,34 +133,34 @@ Here's a sample "posts list". -->
 	<div class="fall clear">
 		<div class="col">
 			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
 			</div>
 			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
-			</div>
-		</div>
-		<div class="col">
-			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
-			</div>
-			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
 			</div>
 		</div>
 		<div class="col">
 			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
 			</div>
 			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
 			</div>
 		</div>
 		<div class="col">
 			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
 			</div>
 			<div class="item">
-				<a href="###"><img src="images/newsdemo.jpg" alt="" /></a>
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
+			</div>
+		</div>
+		<div class="col">
+			<div class="item">
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
+			</div>
+			<div class="item">
+				<a href="###"><img src="assets/themes/rhythm-stream/skin/newsdemo.jpg" alt="" /></a>
 			</div>
 		</div>
 	</div>

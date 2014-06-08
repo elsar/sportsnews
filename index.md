@@ -34,7 +34,7 @@ Here's a sample "posts list". -->
 
 <div class="slidebanner">
 <ul>
-<li><img src="/sportsnews/images/banner.jpg" alt="" style="max-width:100%" /></li>
+<li><img src="/sportsnews/images/banner.jpg" alt="" style="width:100%" /></li>
 </ul>
 </div>
 

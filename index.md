@@ -35,9 +35,9 @@ Here's a sample "posts list". -->
 <div class="bodyarea">
 	<div class="newslist">
 		<div class="item clear">
-			<div class="pic"><a href="/sportsnews/cba/2014/06/08/热身4战男篮阵容初现端倪-11人稳定仅剩1名额/"><img src="assets/themes/rhythm-stream/skin/1.jpg" alt="" /></a></div>
+			<div class="pic"><a href="/sportsnews/cba/2014/05/26/热身4战男篮阵容初现端倪-11人稳定仅剩1名额/"><img src="assets/themes/rhythm-stream/skin/1.jpg" alt="" /></a></div>
 			<div class="newscontent">
-				<p class="tx_24"><a href="/sportsnews/cba/2014/06/08/热身4战男篮阵容初现端倪-11人稳定仅剩1名额/">热身4战男篮阵容初现端倪 11人稳定仅剩1名额</a></p>
+				<p class="tx_24"><a href="/sportsnews/cba/2014/05/26/热身4战男篮阵容初现端倪-11人稳定仅剩1名额/">热身4战男篮阵容初现端倪 11人稳定仅剩1名额</a></p>
 				<p class="tx_14">中澳男篮友谊赛第四场比赛在江苏溧水结束，中国男篮95-90战胜澳大利亚，以2胜2负的成绩结束了此次系列赛。四场热身赛过后，新一届男篮国家队的阵容也开始逐渐清晰。</p><p class="tx_14">
 刘晓宇、周鹏(微博)、李慕豪、丁彦雨航这四人的首发位置最为稳定，除了丁彦雨航首发三场外，其余三人均是全部首发出战。基本上可以确定他们已经锁定了12人大名单。</p>
 <p>至于国家队亮相非常惊艳的周琦，他在澳洲的两场比赛中全部首发出场，返回国内未能出场的原因完全是由于伤病问题。此外，在内线还要注意尚未归队的王哲林，在CBA联赛中，赛季连续拿下20+10的数据，很难让人相信未来国家队中会没有他的位置，。</p>

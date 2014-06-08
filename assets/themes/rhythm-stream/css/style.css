@@ -481,7 +481,7 @@ body .bor0{ border:none!important}
 .banner img{ width:100%}
 .logo{ width:250px; height:60px; background:url(../skin/logo.png) 0 0 no-repeat; background-size:250px 60px; margin:0 auto;}
 .logo a{ display:block; width:250px; height:60px; text-indent:-9999em; overflow:hidden}
-.menu{-webkit-box-ordinal-group:1;width:100%;}
+.menu{-webkit-box-ordinal-group:1;width:100%; background:#fff}
 .menu .item{ padding:10px; border-top:#ccc 1px solid}
 .menu .item:first-child{ border-top:none;}
 .menu .item a{ display:block}

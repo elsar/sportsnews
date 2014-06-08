@@ -14,16 +14,16 @@
  * 
 ================================================================*/
 
-@font-face{font-family:'TGE';src:url('../images/trumpgoteasreg-webfont.eot');
-src:url('../images/trumpgoteasreg-webfont.eot?#iefix') format('embedded-opentype'),
-url('../images/trumpgoteasreg-webfont.woff') format('woff'),
-url('../images/trumpgoteasreg-webfont.ttf') format('truetype'),
-url('../images/trumpgoteasreg-webfont.svg#TrumpGothicEastRegular') format('svg');font-weight:normal;font-style:normal}
+@font-face{font-family:'TGE';src:url('/assets/themes/rhythm-stream/font/trumpgoteasreg-webfont.eot');
+src:url('/assets/themes/rhythm-stream/font/trumpgoteasreg-webfont.eot?#iefix') format('embedded-opentype'),
+url('/assets/themes/rhythm-stream/font/trumpgoteasreg-webfont.woff') format('woff'),
+url('/assets/themes/rhythm-stream/font/trumpgoteasreg-webfont.ttf') format('truetype'),
+url('/assets/themes/rhythm-stream/font/trumpgoteasreg-webfont.svg#TrumpGothicEastRegular') format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'TGE';src:url('../images/trumpgoteasbol-webfont.eot');
-src:url('../images/trumpgoteasbol-webfont.eot?#iefix') format('embedded-opentype'),
-url('../images/trumpgoteasbol-webfont.woff') format('woff'),
-url('../images/trumpgoteasbol-webfont.ttf') format('truetype'),
-url('../images/trumpgoteasbol-webfont.svg#TrumpGothicEastBold') format('svg');font-weight:bold;font-style:normal}
+src:url('/assets/themes/rhythm-stream/font/trumpgoteasbol-webfont.eot?#iefix') format('embedded-opentype'),
+url('/assets/themes/rhythm-stream/font/trumpgoteasbol-webfont.woff') format('woff'),
+url('/assets/themes/rhythm-stream/font/trumpgoteasbol-webfont.ttf') format('truetype'),
+url('/assets/themes/rhythm-stream/font/trumpgoteasbol-webfont.svg#TrumpGothicEastBold') format('svg');font-weight:bold;font-style:normal}
 
 /* 1 CSS RESET
 ================================================================*/
@@ -501,7 +501,7 @@ body .bor0{ border:none!important}
 .submenu .bd{ padding:10px 10px 0; background: #eee; border-radius:5px;}
 .submenu a{ display:block; float:left; padding:2px 10px; background:#5b9fca; border-radius:20px; white-space:nowrap; margin:0 10px 10px 0; color:#fff}
 
-.foot{ padding:20px 0;}
+.foot{ padding:20px 10px;}
 
 .fall{ padding:0 10px;}
 .fall .col{ float:left; width:49%; margin-right:2%;}
@@ -559,6 +559,8 @@ input,textarea,select,button{ font:12px/1.75 Microsoft Yahei,Helvetica;}
 .fall .col{ float:left; width:25%; margin-right:0}
 .fall .col .item{ margin-bottom:10px; padding:0 5px;}
 .fall .col img{ width:96%; vertical-align:top;border:#ddd 1px solid; padding:2%;}
+
+.foot{ max-width:800px}
 }
 
 

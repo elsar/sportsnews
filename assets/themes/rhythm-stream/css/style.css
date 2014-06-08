@@ -471,7 +471,7 @@ body .bor0{ border:none!important}
 
 /* hottopic
 ----------------------------------------------------------------*/
-.toparea{ display:-webkit-box; -webkit-box-orient:vertical}
+.toparea{ display:-webkit-box; -webkit-box-orient:vertical; background:#fff}
 .topnav{-webkit-box-ordinal-group:3; width:100%;}
 .navlist{ padding:10px;}
 .hotpoint{ text-align:center; background:#5b9fca; color:#fff}

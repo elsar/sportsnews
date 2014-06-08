@@ -152,9 +152,6 @@ Here's a sample "posts list". -->
 			<div class="item">
 				<a href="/sportsnews/足球/2014/06/01/曝温格2017退休离任-接班人已定头号传奇名宿/"><img src="assets/themes/rhythm-stream/skin/7.jpg" alt="" /></a>
 			</div>
-			<div class="item">
-				<a href="/sportsnews/网球/2014/05/22/官网赞海峡组合当今最佳-路透称12-0神奇纪录/"><img src="assets/themes/rhythm-stream/skin/8.jpg" alt="" /></a>
-			</div>
 		</div>
 		<div class="col">
 			<div class="item">

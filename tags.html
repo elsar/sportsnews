@@ -14,15 +14,16 @@ group: navigation
 </div>
 
 
-{% for tag in site.tags %} 
 
 <div class="bodyarea">
 	<div class="bodylist">
+{% for tag in site.tags %} 
 		<h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
 		<ul>
     {% assign pages_list = tag[1] %}  
     {% include JB/pages_list %}
 		</ul>
+{% endfor %}
+
 	</div>
 </div>
-{% endfor %}

@@ -561,7 +561,7 @@ input,textarea,select,button{ font:12px/1.75 Microsoft Yahei,Helvetica;}
 .fall .col .item{ margin-bottom:10px; padding:0 5px;}
 .fall .col img{ width:96%; vertical-align:top;border:#ddd 1px solid; padding:2%;}
 
-.foot{ max-width:800px}
+.foot{ max-width:800px; margin:0 auto;}
 }
 
 

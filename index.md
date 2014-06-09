@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: SportsDog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
